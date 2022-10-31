@@ -22,5 +22,5 @@ and the number of base stations.
 ### Example of the result
 
 <p align="center">
-    <img src="example-img/tmp5dvgl5yh.PNG" alt />
+    <img src="example-img/tmpn58oukdp.PNG" alt />
 </p>
